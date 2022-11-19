@@ -52,6 +52,7 @@ export default function Home() {
         Dog app
       </h1>        
       <h2 className="font-bold my-6" >5IV7 - Cárdenas Mayén Diana Araceli</h2>
+      <h2 className="font-bold my-6" >Bienvenido a la tiendta de adopciones :3</h2>
       <h2 className="font-bold my-6" >ADÓPTANOS</h2>
       <p className="my-8 text-black">Esta aplicación está hecha con la api {""}
         <a href="https://thedogapi.com" className="text-indigo-600 underline active:text-orange-400">

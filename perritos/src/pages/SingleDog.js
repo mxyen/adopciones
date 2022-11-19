@@ -30,6 +30,7 @@ export default function SingleDog() {
         <img 
         src={`https://cdn2.thedogapi.com/images/${item.reference_image_id}.jpg`}
         alt={item.name}
+
         /> 
     
        
